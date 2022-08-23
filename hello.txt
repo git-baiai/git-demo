@@ -10,3 +10,5 @@ hello git,i will study you
 hello git,i will study you
 hello git,i will study you
 hello git,i will study you
+this is hot-fix frist commit
+vesion:1.1
